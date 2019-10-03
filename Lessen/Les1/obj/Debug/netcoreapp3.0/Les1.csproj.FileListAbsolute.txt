@@ -1,0 +1,11 @@
+C:\Users\Vande\Repos\gdmgent-kylevand-csse1\Lessen\Les1\bin\Debug\netcoreapp3.0\Les1.exe
+C:\Users\Vande\Repos\gdmgent-kylevand-csse1\Lessen\Les1\bin\Debug\netcoreapp3.0\Les1.deps.json
+C:\Users\Vande\Repos\gdmgent-kylevand-csse1\Lessen\Les1\bin\Debug\netcoreapp3.0\Les1.runtimeconfig.json
+C:\Users\Vande\Repos\gdmgent-kylevand-csse1\Lessen\Les1\bin\Debug\netcoreapp3.0\Les1.runtimeconfig.dev.json
+C:\Users\Vande\Repos\gdmgent-kylevand-csse1\Lessen\Les1\bin\Debug\netcoreapp3.0\Les1.dll
+C:\Users\Vande\Repos\gdmgent-kylevand-csse1\Lessen\Les1\bin\Debug\netcoreapp3.0\Les1.pdb
+C:\Users\Vande\Repos\gdmgent-kylevand-csse1\Lessen\Les1\obj\Debug\netcoreapp3.0\Les1.csprojAssemblyReference.cache
+C:\Users\Vande\Repos\gdmgent-kylevand-csse1\Lessen\Les1\obj\Debug\netcoreapp3.0\Les1.AssemblyInfoInputs.cache
+C:\Users\Vande\Repos\gdmgent-kylevand-csse1\Lessen\Les1\obj\Debug\netcoreapp3.0\Les1.AssemblyInfo.cs
+C:\Users\Vande\Repos\gdmgent-kylevand-csse1\Lessen\Les1\obj\Debug\netcoreapp3.0\Les1.dll
+C:\Users\Vande\Repos\gdmgent-kylevand-csse1\Lessen\Les1\obj\Debug\netcoreapp3.0\Les1.pdb
